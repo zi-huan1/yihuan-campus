@@ -1,0 +1,14 @@
+**/node_modules
+**/dist
+**/.env
+.env.*
+**/.git
+.codeartsdoer
+server/data
+server/uploads
+server/logs
+开发证据
+页面截图
+*.log
+_smoke.mjs
+_mock_ai.mjs

@@ -1,0 +1,3 @@
+[2026-10-26T04:43:17.806Z] [INFO] 易换校园后端已启动 {"port":3000,"mode":"offline","aiConfigured":false}
+易换校园后端已启动：http://localhost:3000
+AI 模式：offline（离线演示模式：未接入真实大模型）
